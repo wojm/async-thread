@@ -1,2 +1,5 @@
 pytest
 pytest-asyncio
+requests
+flask
+aiohttp
